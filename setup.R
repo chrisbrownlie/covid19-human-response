@@ -1,0 +1,13 @@
+library(dplyr)
+library(httr)
+library(jsonlite)
+library(purrr)
+library(stringr)
+library(ggplot2)
+library(RSocrata)
+library(lubridate)
+library(ggmap)
+library(ggthemes)
+library(tidyr)
+
+source("functions.R")
